@@ -17,5 +17,17 @@ are caused by two tailing spaces at the end of a line.
 - Data Carpentry
 - Library Carpentry
 
+## More info on the lesson
+
+You can find this lesson [here](https://carpentries-incubator.github.io/jekyll-pages-novice)
+
+### Four reasons you should learn markdown:
+
+1. Less formatting than HTML
+1. Easy to read even with the formatting
+2. Commonly used for websites and software development
+3. We ~~don't~~ use it in The Carpentries
+
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
 
 
