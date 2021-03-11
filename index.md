@@ -1,9 +1,8 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
-layout: page
+layout: default
+title: "Learning how to build websites with Jekyll"
 ---
-
-# {{ site.title }}
 
 ## Description
 {{ site.description }}
