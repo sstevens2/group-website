@@ -16,6 +16,6 @@ See some [examples of our work]({{ page.lesson-example }})
 
 ## Blog Posts
 
-{% for post in site.posts %}
+{% for post in site.posts | sort: "author" %}
 - {{ post.date | date_to_string }}: {{ post.title }}
 {% endfor %}
